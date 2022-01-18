@@ -1,2 +1,2 @@
 # STM32_DHT11_LCD
-DHT11 sensor with LCD Display
+DHT11 sensor with LCD Display with STM32F401RE
